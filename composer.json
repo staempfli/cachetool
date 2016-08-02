@@ -1,0 +1,11 @@
+{
+  "name": "staempfli/opcache-tool",
+  "description": "Staempfli AG opcache-cachetool binary",
+  "authors": [
+    {
+      "name": "Juan Alonso",
+      "email": "juan.alonso@staempfli.com"
+    }
+  ],
+  "bin": ["opcache-tool"]
+}
