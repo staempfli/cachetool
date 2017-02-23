@@ -7,5 +7,6 @@
       "email": "juan.alonso@staempfli.com"
     }
   ],
+  "license": "MIT",
   "bin": ["cachetool"]
 }
